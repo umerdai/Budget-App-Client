@@ -18,7 +18,7 @@
             />
           </div>
   
-          <div class="form-group">
+          <div class="form-group m-1">
             <label for="email">Email</label>
             <input
               id="email"
